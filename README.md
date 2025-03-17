@@ -6,6 +6,3 @@
 </a>
 
 [![My top langs](https://github-readme-stats-pi-green-70.vercel.app/api/top-langs/?username=dinhtrung21&layout=compact&langs_count=10&theme=tokyonight&hide=ShaderLab,HLSL)](https://github.com/dinhtrung21/github-readme-stats)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nguyendtrung" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fi.linkedin.com/in/nguyendtrung?trk=profile-badge">Trung Nguyen</a></div>
